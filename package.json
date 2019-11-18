@@ -2,14 +2,14 @@
   "name": "TDD",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "cart.js",
   "devDependencies": {
     "jest": "^24.9.0"
   },
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": ["unit_testing", "jest"],
   "author": "Adamu Muhammad Dankore",
-  "license": "ISC"
+  "license": "MIT"
 }
